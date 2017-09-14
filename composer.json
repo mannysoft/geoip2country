@@ -3,8 +3,8 @@
     "description": "Laravel package geoip2country",
     "keywords": [
         "laravel",
-        "vat",
-        "vatlayer"
+        "geoip",
+        "php"
     ],
     "authors": [
         {
